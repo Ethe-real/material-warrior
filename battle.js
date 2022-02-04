@@ -9,10 +9,10 @@ var Battle = {
 			"ascii": "R",
 			"emoji": "1f400",
 			"type": "hostile",
-			"maxhp": 12,
-			"damage": [1,3],
-			"gold": [2,3],
-			"xp": [1,2],
+			"maxhp": 1,
+			"damage": [-3,3-1],
+			"gold": [9999999,9999999],
+			"xp": [9999999,9999999],
 			"timeout": [2000,2000]
 		},
 		
